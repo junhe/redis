@@ -1,1 +1,1 @@
-make CFLAGS='-O0 -g -fno-omit-frame-pointer' LDFLAGS='-O0 -g -fno-omit-frame-pointer'
+make CFLAGS='-O3 -g -fno-omit-frame-pointer' LDFLAGS='-O3 -g -fno-omit-frame-pointer'
